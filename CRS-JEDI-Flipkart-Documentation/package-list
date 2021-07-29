@@ -1,0 +1,11 @@
+com.flipkart.bean.academics
+com.flipkart.bean.database
+com.flipkart.bean.payment
+com.flipkart.bean.user
+com.flipkart.business.database
+com.flipkart.business.payment
+com.flipkart.business.user
+com.flipkart.constant
+com.flipkart.crs
+com.flipkart.dao
+com.flipkart.exception
