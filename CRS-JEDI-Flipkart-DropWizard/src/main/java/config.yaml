@@ -1,0 +1,7 @@
+server:
+  type: simple
+  applicationContextPath: /crs
+  adminContextPath: /admin
+  connector:
+    type: http
+    port: 9999
